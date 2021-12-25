@@ -1,7 +1,7 @@
 {
-  "name": "@adiwajshing/baileys-md",
+  "name": "@wa/md",
   "version": "4.0.0",
-  "description": "WhatsApp Multi-Device API",
+  "description": "[CommonJS] WhatsApp Multi-Device API",
   "homepage": "https://github.com/adiwajshing/Baileys",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
