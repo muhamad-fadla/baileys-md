@@ -1,6 +1,6 @@
 {
-  "name": "@wa/md",
-  "version": "4.0.0",
+  "name": "@wapi/md",
+  "version": "1.0.0",
   "description": "[CommonJS] WhatsApp Multi-Device API",
   "homepage": "https://github.com/adiwajshing/Baileys",
   "main": "lib/index.js",
